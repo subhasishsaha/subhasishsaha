@@ -2,7 +2,7 @@
 <h3 align='center'>AI Engineer • Machine Learning Engineer • MSc Data Science</h3>
 
 <p align='center'>
-Building production-focused AI systems across Legal AI, Medical AI, NLP, Computer Vision, Agentic AI, and 3D Generation.
+Building production-focused AI systems across Legal AI, Medical AI, NLP, Computer Vision, and Agentic AI.
 </p>
 
 ---
@@ -17,7 +17,6 @@ Instead of collecting models, I focus on building complete AI products and resea
 | Healthcare AI | Early skin cancer detection | Melanoma Classification System |
 | NLP | Extracting insights from app reviews | Play Store Review Analyzer |
 | HR Tech | Resume evaluation and ranking | Resume Ranker |
-| Generative AI | Creating 3D assets from text | Text-to-3D Research Pipeline |
 
 ---
 
@@ -129,43 +128,6 @@ Faster candidate shortlisting and skill matching.
 
 ---
 
-## 🚀 Text-to-3D Generation Research
-
-### Goal
-Generate 3D assets directly from natural language prompts.
-
-### Research Pipeline
-
-```text
-Text Prompt
-     ↓
-Multi-View Generation (MVDream)
-     ↓
-COLMAP Camera Estimation
-     ↓
-MVSNet Depth Reconstruction
-     ↓
-Pix2Vox++ Volumetric Fusion
-     ↓
-Latent Diffusion Refinement
-     ↓
-3D Model
-```
-
-### Research Focus
-
-- Multi-view generation
-- Depth estimation
-- Volumetric reconstruction
-- Diffusion-based refinement
-- 3D asset generation
-
-### Applications
-
-AR/VR • Game Development • Digital Twins • Rapid Prototyping
-
----
-
 # Technical Expertise
 
 ```yaml
@@ -208,7 +170,6 @@ Programming:
 - LangGraph Workflows
 - Legal AI
 - Medical AI
-- Text-to-3D Generation
 - Multi-Agent Architectures
 - LLM Engineering
 
