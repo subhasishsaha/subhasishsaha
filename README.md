@@ -94,7 +94,7 @@ AI-powered resume evaluation and candidate ranking system.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/subhasishsaha
-- Email: sahasubho10@gmail.com
+- Email: subhasishsaha.work@gmail.com
 
 ---
 
