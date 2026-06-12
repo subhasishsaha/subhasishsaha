@@ -1,167 +1,222 @@
-<h1 align="center">SUBHASISH OS v2.0</h1>
+<h1 align='center'>Subhasish Saha</h1>
+<h3 align='center'>AI Engineer • Machine Learning Engineer • MSc Data Science</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=900&lines=Booting+AI+Engineer...;Loading+Machine+Learning+Models...;Initializing+Agentic+Systems...;Launching+Computer+Vision+Modules...;System+Ready" />
+<p align='center'>
+Building production-focused AI systems across Legal AI, Medical AI, NLP, Computer Vision, Agentic AI, and 3D Generation.
 </p>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ SYSTEM NAME : SUBHASISH OS                                  │
-│ VERSION     : 2026.1                                        │
-│ ROLE        : AI Engineer                                   │
-│ STATUS      : ONLINE                                        │
-│ LOCATION    : India                                         │
-│ DEGREE      : MSc Data Science                              │
-│ MISSION     : Build AI Systems That Solve Real Problems     │
-└──────────────────────────────────────────────────────────────┘
-```
+---
 
-## SYSTEM STATUS
+# What I Build
 
-```text
-AI Engineering          ██████████ 100%
-Machine Learning        ██████████ 100%
-Deep Learning           █████████░  90%
-Computer Vision         ████████░░  80%
-Generative AI           ████████░░  80%
-Agentic AI              ███████░░░  70%
-3D AI Research          █████░░░░░  50%
-```
+Instead of collecting models, I focus on building complete AI products and research systems.
 
-## KNOWLEDGE GRAPH
+| Domain | Problem | Solution |
+|----------|----------|----------|
+| Legal AI | Understanding legal documents and answering legal questions | Legal RAG System |
+| Healthcare AI | Early skin cancer detection | Melanoma Classification System |
+| NLP | Extracting insights from app reviews | Play Store Review Analyzer |
+| HR Tech | Resume evaluation and ranking | Resume Ranker |
+| Generative AI | Creating 3D assets from text | Text-to-3D Research Pipeline |
 
-```text
-                          Artificial Intelligence
-                                     │
-        ┌────────────────────────────┼────────────────────────────┐
-        │                            │                            │
-        ▼                            ▼                            ▼
-       NLP                   Computer Vision            Generative AI
-        │                            │                            │
-        ▼                            ▼                            ▼
-      RAG                 Medical Image AI            Text-to-3D Systems
-        │                            │                            │
-        └──────────────► Agentic AI Systems ◄───────────────┘
-```
+---
 
-## CURRENT MISSIONS
+# Featured Projects
+
+## ⚖️ Legal RAG System
+
+### Problem
+Legal documents are lengthy, complex, and difficult to search manually.
+
+### Solution
+Built a Retrieval-Augmented Generation pipeline capable of:
+
+- Legal document ingestion
+- Chunking and indexing
+- Semantic search
+- Context retrieval
+- LLM-powered question answering
+- Legal knowledge extraction
+
+### Technologies
 
 ```text
-[█████████░] Legal RAG System
-[████████░░] AI Resume Ranker
-[████████░░] Medical Image Classification
-[███████░░░] Agentic AI Systems
-[██████░░░░] Text-to-3D Generation Pipeline
+LangChain → Vector Database → Retriever → LLM → Response Generation
 ```
 
-## FEATURED PROJECTS
+### Outcome
+A foundation for an AI-powered legal assistant operating on Indian legal documents.
 
-### ⚖️ Legal RAG System
-Building an AI legal assistant capable of document understanding, retrieval, reasoning, and legal question answering.
+---
 
-### 🩺 Melanoma Cancer Classification
-Deep learning system for skin cancer detection with uncertainty estimation and explainability.
+## 🩺 Melanoma Classification System
 
-### 🧠 Play Store Review Analyzer
-NLP platform for sentiment analysis, aspect extraction, and AI-powered recommendations.
+### Problem
+Early melanoma detection can significantly improve treatment outcomes.
 
-### 📄 Resume Ranker
-Machine learning platform for resume evaluation and candidate ranking.
+### Solution
+Developed a deep learning-based diagnostic pipeline that:
 
-## RESEARCH PIPELINE
+- Processes dermoscopic images
+- Performs melanoma classification
+- Estimates prediction uncertainty
+- Generates explainable outputs
+- Produces exportable reports
+
+### Technologies
+
+```text
+CNN → Test-Time Augmentation → Uncertainty Estimation → Report Generation
+```
+
+### Outcome
+End-to-end medical image analysis workflow focused on decision support.
+
+---
+
+## 🧠 Play Store Review Analyzer
+
+### Problem
+Large applications receive thousands of reviews that are difficult to analyze manually.
+
+### Solution
+Built an automated review intelligence platform capable of:
+
+- Review collection from Google Play Store
+- Sentiment analysis
+- Aspect classification
+- Category detection
+- Improvement recommendation generation
+- Interactive visual analytics
+
+### Pipeline
+
+```text
+Reviews
+   ↓
+Preprocessing
+   ↓
+Sentiment Analysis
+   ↓
+Aspect Classification
+   ↓
+Recommendation Generation
+   ↓
+Dashboard
+```
+
+### Outcome
+Transforms raw customer feedback into actionable product insights.
+
+---
+
+## 📄 Resume Ranker
+
+### Problem
+Recruiters spend significant time screening resumes.
+
+### Solution
+Built an AI-powered resume assessment system that:
+
+- Parses resumes
+- Extracts skills and experience
+- Compares candidates against requirements
+- Generates ranking scores
+- Provides evaluation summaries
+
+### Outcome
+Faster candidate shortlisting and skill matching.
+
+---
+
+## 🚀 Text-to-3D Generation Research
+
+### Goal
+Generate 3D assets directly from natural language prompts.
+
+### Research Pipeline
 
 ```text
 Text Prompt
-     │
-     ▼
- MVDream
-     │
-     ▼
- COLMAP
-     │
-     ▼
- MVSNet
-     │
-     ▼
- Pix2Vox++
-     │
-     ▼
- Conditional Diffusion
-     │
-     ▼
- 3D Reconstruction
+     ↓
+Multi-View Generation (MVDream)
+     ↓
+COLMAP Camera Estimation
+     ↓
+MVSNet Depth Reconstruction
+     ↓
+Pix2Vox++ Volumetric Fusion
+     ↓
+Latent Diffusion Refinement
+     ↓
+3D Model
 ```
 
-## TECHNOLOGY STACK
+### Research Focus
+
+- Multi-view generation
+- Depth estimation
+- Volumetric reconstruction
+- Diffusion-based refinement
+- 3D asset generation
+
+### Applications
+
+AR/VR • Game Development • Digital Twins • Rapid Prototyping
+
+---
+
+# Technical Expertise
 
 ```yaml
-languages:
-  - Python
-  - SQL
+Machine Learning:
+  - Supervised Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
 
-machine_learning:
-  - PyTorch
-  - TensorFlow
-  - Scikit-Learn
-
-llm_stack:
+LLM Engineering:
+  - RAG
   - LangChain
   - LangGraph
-  - Ollama
-  - RAG
+  - Agentic Systems
 
-deployment:
+Deployment:
   - Streamlit
   - Firebase
   - Docker
+
+Programming:
+  - Python
+  - SQL
 ```
 
-## TERMINAL
+---
 
-```bash
-> whoami
-Subhasish Saha
+# GitHub Analytics
 
-> current_role
-AI Engineer
-
-> interests
-AI Systems
-Computer Vision
-Agentic AI
-LLM Engineering
-Research
-
-> status
-Building...
-```
-
-## GITHUB ANALYTICS
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=subhasishsaha&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsaha&layout=compact&theme=tokyonight" />
+<p align='center'>
+<img height='170' src='https://github-readme-stats.vercel.app/api?username=subhasishsaha&show_icons=true&theme=tokyonight' />
+<img height='170' src='https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsaha&layout=compact&theme=tokyonight' />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=subhasishsaha&theme=tokyonight" />
-</p>
+---
 
-## REPOSITORY SHOWCASE
+# Current Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsaha&repo=legal-rag-system&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsaha&repo=playstore-review-analyzer&theme=tokyonight" />
-</p>
+- Agentic AI Systems
+- LangGraph Workflows
+- Legal AI
+- Medical AI
+- Text-to-3D Generation
+- Multi-Agent Architectures
+- LLM Engineering
 
-## CONTACT
+---
 
-```yaml
-email: subhasishsaha.work@gmail.com
-github: github.com/subhasishsaha
-status: available_for_ai_engineering_roles
-```
+# Contact
 
-<p align="center">
-<b>Building Practical AI Systems, Not Just Models.</b>
-</p>
+- GitHub: https://github.com/subhasishsaha
+- Email: subhasishsaha.work@gmail.com
+
+> Building complete AI systems from research to deployment.
