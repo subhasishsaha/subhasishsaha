@@ -61,9 +61,6 @@ Retrieval-Augmented Generation platform for legal document understanding and que
 ### 📄 Resume Ranker
 AI-powered resume evaluation and candidate ranking system.
 
-### 🤖 Agentic AI & LangGraph Projects
-Autonomous workflows, reasoning agents, and multi-agent systems built using LangGraph.
-
 ---
 
 ## 🎯 Current Focus
