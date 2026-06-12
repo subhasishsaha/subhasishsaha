@@ -16,7 +16,6 @@ Instead of collecting models, I focus on building complete AI products and resea
 | Legal AI | Understanding legal documents and answering legal questions | Legal RAG System |
 | Healthcare AI | Early skin cancer detection | Melanoma Classification System |
 | NLP | Extracting insights from app reviews | Play Store Review Analyzer |
-| HR Tech | Resume evaluation and ranking | Resume Ranker |
 
 ---
 
@@ -106,25 +105,6 @@ Dashboard
 
 ### Outcome
 Transforms raw customer feedback into actionable product insights.
-
----
-
-## 📄 Resume Ranker
-
-### Problem
-Recruiters spend significant time screening resumes.
-
-### Solution
-Built an AI-powered resume assessment system that:
-
-- Parses resumes
-- Extracts skills and experience
-- Compares candidates against requirements
-- Generates ranking scores
-- Provides evaluation summaries
-
-### Outcome
-Faster candidate shortlisting and skill matching.
 
 ---
 
