@@ -1,163 +1,34 @@
-<h1 align='center'>Subhasish Saha</h1>
-<h3 align='center'>AI Engineer • Machine Learning Engineer • MSc Data Science</h3>
+# Subhasish Saha
 
-<p align='center'>
-Building production-focused AI systems across Legal AI, Medical AI, NLP, Computer Vision, and Agentic AI.
-</p>
+**AI/ML Engineer | MSc Data Science**
 
----
+I build practical AI systems with a focus on machine learning, NLP, LLM applications, and agentic workflows. I enjoy turning ideas into reliable software—from experimentation and model development to APIs and deployment.
 
-# What I Build
+- 🎓 MSc Data Science, VIT
+- 📌 GATE 2026 (Data Science & AI) qualified
+- 🧠 Interested in ML, NLP, RAG, and AI agents
 
-Instead of collecting models, I focus on building complete AI products and research systems.
+## Featured Projects
 
-| Domain | Problem | Solution |
-|----------|----------|----------|
-| Legal AI | Understanding legal documents and answering legal questions | Legal RAG System |
-| Healthcare AI | Early skin cancer detection | Melanoma Classification System |
-| NLP | Extracting insights from app reviews | Play Store Review Analyzer |
+| Project | Description | Tech |
+|---|---|---|
+| [Legal RAG System](https://github.com/subhasishsaha/legal-rag-system) | Retrieval-based question answering over legal documents | LangChain, ChromaDB, Hugging Face, Gemini, FastAPI |
+| [Play Store Review Analyzer](https://github.com/subhasishsaha/playstore-review-analyzer) | Sentiment and issue analysis of app reviews with AI-generated insights | RoBERTa, scikit-learn, XGBoost, Ollama, FastAPI |
+| [Melanoma Classification](https://github.com/subhasishsaha/melanoma-cancer-classification) | Deep learning workflow for dermoscopic image classification | Python, Deep Learning, Computer Vision |
 
----
+## Skills
 
-# Featured Projects
+- **Languages:** Python, SQL
+- **Machine Learning:** PyTorch, TensorFlow, scikit-learn, XGBoost
+- **NLP & LLMs:** Hugging Face, LangChain, LangGraph, RAG, Agentic AI
+- **Data:** Pandas, NumPy, PostgreSQL, MongoDB
+- **Tools & Deployment:** Git, Docker, FastAPI, Ollama
 
-## ⚖️ Legal RAG System
+## Currently Exploring
 
-### Problem
-Legal documents are lengthy, complex, and difficult to search manually.
+Agentic systems, LLM application architecture, evaluation, and reliable AI tooling.
 
-### Solution
-Built a Retrieval-Augmented Generation pipeline capable of:
+## Connect
 
-- Legal document ingestion
-- Chunking and indexing
-- Semantic search
-- Context retrieval
-- LLM-powered question answering
-- Legal knowledge extraction
-
-### Technologies
-
-```text
-LangChain → Vector Database → Retriever → LLM → Response Generation
-```
-
-### Outcome
-A foundation for an AI-powered legal assistant operating on Indian legal documents.
-
----
-
-## 🩺 Melanoma Classification System
-
-### Problem
-Early melanoma detection can significantly improve treatment outcomes.
-
-### Solution
-Developed a deep learning-based diagnostic pipeline that:
-
-- Processes dermoscopic images
-- Performs melanoma classification
-- Estimates prediction uncertainty
-- Generates explainable outputs
-- Produces exportable reports
-
-### Technologies
-
-```text
-CNN → Test-Time Augmentation → Uncertainty Estimation → Report Generation
-```
-
-### Outcome
-End-to-end medical image analysis workflow focused on decision support.
-
----
-
-## 🧠 Play Store Review Analyzer
-
-### Problem
-Large applications receive thousands of reviews that are difficult to analyze manually.
-
-### Solution
-Built an automated review intelligence platform capable of:
-
-- Review collection from Google Play Store
-- Sentiment analysis
-- Aspect classification
-- Category detection
-- Improvement recommendation generation
-- Interactive visual analytics
-
-### Pipeline
-
-```text
-Reviews
-   ↓
-Preprocessing
-   ↓
-Sentiment Analysis
-   ↓
-Aspect Classification
-   ↓
-Recommendation Generation
-   ↓
-Dashboard
-```
-
-### Outcome
-Transforms raw customer feedback into actionable product insights.
-
----
-
-# Technical Expertise
-
-```yaml
-Machine Learning:
-  - Supervised Learning
-  - Deep Learning
-  - Computer Vision
-  - NLP
-
-LLM Engineering:
-  - RAG
-  - LangChain
-  - LangGraph
-  - Agentic Systems
-
-Deployment:
-  - Streamlit
-  - Firebase
-  - Docker
-
-Programming:
-  - Python
-  - SQL
-```
-
----
-
-# GitHub Analytics
-
-<p align='center'>
-<img height='170' src='https://github-readme-stats.vercel.app/api?username=subhasishsaha&show_icons=true&theme=tokyonight' />
-<img height='170' src='https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsaha&layout=compact&theme=tokyonight' />
-</p>
-
----
-
-# Current Focus
-
-- Agentic AI Systems
-- LangGraph Workflows
-- Legal AI
-- Medical AI
-- Multi-Agent Architectures
-- LLM Engineering
-
----
-
-# Contact
-
-- GitHub: https://github.com/subhasishsaha
-- Email: subhasishsaha.work@gmail.com
-
-> Building complete AI systems from research to deployment.
+- [GitHub](https://github.com/subhasishsaha)
+- [Email](mailto:subhasishsaha.work@gmail.com)
