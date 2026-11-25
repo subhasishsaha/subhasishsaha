@@ -23,4 +23,3 @@ Agentic systems, LLM application architecture, evaluation, and reliable AI tooli
 ## Connect
 
 - [GitHub](https://github.com/subhasishsaha)
-- [Email](mailto:subhasishsaha.work@gmail.com)
